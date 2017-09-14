@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Quelques pas avec Hugo hohoho</title>
-    <link>https://olange.github.io/hugo/</link>
-    <description>Recent content on Quelques pas avec Hugo hohoho</description>
+    <title>Posts on Quelques pas avec Hugo hohoho</title>
+    <link>https://olange.github.io/hugo/posts/</link>
+    <description>Recent content in Posts on Quelques pas avec Hugo hohoho</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2015 Copyright Text</copyright>
     <lastBuildDate>Thu, 14 Sep 2017 22:36:12 +0200</lastBuildDate>
     
-	<atom:link href="https://olange.github.io/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://olange.github.io/hugo/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
