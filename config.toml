@@ -1,0 +1,23 @@
+theme="polymer"
+languageCode = "en-us"
+title = "Quelques pas avec Hugo hohoho"
+MetaDataFormat = "toml"
+paginate = 10 # optional
+disqusShortname = "olange" # optional
+copyright = "© 2015 Copyright Text"
+publishDir = "docs"
+
+[params]
+  author = "Olivier"
+  photo = "images/photo.png" # optional
+  profile = "images/profile.png" # optional
+  cover = "images/cover.png" # optional
+  twitter = "Your Twitter Name" # optional
+  github = "Your Github Name" # optional
+  facebook = "Your facebook Name" # optional
+  gplus = "Your Google+ Name" # optional
+  linkedin = "Your linkedin Name" # optional
+  googleAnalyticsUserID = "Your Analytics User Id" # optional
+
+[permalinks]
+  post = "/:year/:month/:day/:filename/" # optional
