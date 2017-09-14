@@ -6,6 +6,7 @@ paginate = 10 # optional
 disqusShortname = "olange" # optional
 copyright = "© 2015 Copyright Text"
 publishDir = "docs"
+baseURL = "https://olange.github.io/hugo/"
 
 [params]
   author = "Olivier"
